@@ -1,6 +1,6 @@
 target/
 *.iml
-.setting/
+.settings/
 .project
 .springBeans
 .classpath
