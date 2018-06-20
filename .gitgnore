@@ -1,7 +1,7 @@
-target/*
+target/
 *.iml
-.setting/*
-.classpath
+.setting/
 .project
 .springBeans
+.classpath
 .git/*
